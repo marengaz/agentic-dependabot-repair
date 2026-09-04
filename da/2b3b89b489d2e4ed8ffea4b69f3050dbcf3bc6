@@ -1,0 +1,40 @@
+README.md
+  s_69c80c02c3db59::t_992233796146af 1-90
+.gitignore
+  s_790bbc79b495d5::t_b8a2c6c762afcf 1-4
+LICENSE
+  s_790bbc79b495d5::t_addee7ebfe9570 1-21
+SECURITY.md
+  s_790bbc79b495d5::t_20b3326c6ea439 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "da2b3b89b489d2e4ed8ffea4b69f3050dbcf3bc6",
+  "prompts": {},
+  "sessions": {
+    "s_69c80c02c3db59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06c48-79fc-7850-a3ea-755aabb0b7e7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ben Marengo <6930705+marengaz@users.noreply.github.com>",
+      "token_usage": {
+        "input_tokens": 109037,
+        "output_tokens": 16988,
+        "cache_creation_tokens": 0,
+        "cache_read_tokens": 2711552
+      },
+      "billing_source": "subscription"
+    },
+    "s_790bbc79b495d5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06c4b-5e65-7393-b929-3eb0e0adfee0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ben Marengo <6930705+marengaz@users.noreply.github.com>"
+    }
+  }
+}
