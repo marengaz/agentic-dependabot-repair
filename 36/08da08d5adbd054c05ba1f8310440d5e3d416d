@@ -1,0 +1,48 @@
+.github/dependabot.yml
+  s_69c80c02c3db59::t_c8bd35cfd49e6e 1-32
+.github/workflows/dependabot-automerge.yml
+  s_69c80c02c3db59::t_166d4da30c387f 18-20
+  s_69c80c02c3db59::t_c8bd35cfd49e6e 1-17,21-27
+.github/workflows/dependabot-repair.md
+  s_69c80c02c3db59::t_992233796146af 69
+  s_69c80c02c3db59::t_96d9f17face329 1-68,70-75
+.github/workflows/ci.yml
+  s_69c80c02c3db59::t_992233796146af 1-16,20,22-25
+  s_69c80c02c3db59::t_56e1a2d52f7d19 17,21
+  s_69c80c02c3db59::t_c8bd35cfd49e6e 18-19
+.gitattributes
+  s_69c80c02c3db59::t_1f7341026c5120 1
+.github/aw/actions-lock.json
+  s_69c80c02c3db59::t_34e33571b7b8c8 1-9
+.github/workflows/dependabot-repair.lock.yml
+  s_69c80c02c3db59::t_00a9389f12e355 1-1896
+requirements-dev.txt
+  s_790bbc79b495d5::t_a673e553bddfda 1-3
+requirements.txt
+  s_790bbc79b495d5::t_df9907039bbcd9 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "3608da08d5adbd054c05ba1f8310440d5e3d416d",
+  "prompts": {},
+  "sessions": {
+    "s_69c80c02c3db59": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06c48-79fc-7850-a3ea-755aabb0b7e7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ben Marengo <6930705+marengaz@users.noreply.github.com>",
+      "billing_source": "subscription"
+    },
+    "s_790bbc79b495d5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06c4b-5e65-7393-b929-3eb0e0adfee0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ben Marengo <6930705+marengaz@users.noreply.github.com>"
+    }
+  }
+}
