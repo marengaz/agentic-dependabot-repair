@@ -1,0 +1,1 @@
+"""FastAPI dependency migration demonstration."""
